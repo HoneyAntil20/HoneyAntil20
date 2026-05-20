@@ -159,17 +159,7 @@ const HoneyAntil = {
 
 ---
 
-## ❯ leetcode
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HoneyAntil20?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=12&sheets=https://raw.githubusercontent.com/JacobLinCool/LeetCode-Stats-Card/main/src/themes/dark.css)](https://leetcode.com/HoneyAntil20)
-
-</div>
-
-<br/>
-
----
 
 ## ❯ contribution graph
 
