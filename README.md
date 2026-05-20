@@ -127,15 +127,7 @@ const honey: Developer = {
 
 ---
 
-### 🧩 LeetCode Stats
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/HoneyAntil20?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10)](https://leetcode.com/HoneyAntil20)
-
-</div>
-
----
 
 ### 📈 Contribution Graph
 
